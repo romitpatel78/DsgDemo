@@ -1,8 +1,7 @@
 //
 //  ViewController.swift
-//  simpsonsviewer
 //
-//  Created by Romit Patel on 5/26/21.
+//  Created by Romit Patel on 6/14/21.
 //
 
 import UIKit
